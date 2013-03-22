@@ -1,0 +1,33 @@
+body { 
+margin:0px;
+font-style:italic;
+font-family:"Helvetica Neue" Arial;
+}
+
+div.header {
+	background-color: #009999;
+	color: white;
+	height: 140px;
+	padding-top:10px;
+	padding-left:100px;
+	}
+
+div.linkbar {
+	background-color:#9900CC;
+	height:40px;
+}
+
+div.maincontent {
+padding-left:100px;
+width:300px;
+}
+
+p
+{
+font-style:italic;
+}
+
+
+
+
+
