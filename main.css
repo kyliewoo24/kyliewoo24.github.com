@@ -1,6 +1,5 @@
 body { 
 margin:0px;
-font-style:italic;
 font-family:"Helvetica Neue" Arial;
 }
 
@@ -27,6 +26,26 @@ p
 font-style:italic;
 }
 
+div.linkbar a
+{
+color:white;
+text-decoration: none;
+float:left;
+font-size:21px;
+padding-top:5px;
+}
+
+div.linkbar a:hover {
+color:red;
+}
+
+div.linkbar a.home
+{padding-left:100px;
+}
+div.linkbar a.about
+{padding-left: 20px;
+
+}
 
 
 
